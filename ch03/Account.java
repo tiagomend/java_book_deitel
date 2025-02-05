@@ -20,4 +20,6 @@ public class Account {
 
 /*
  * A palavra chave public é um modificador de acesso. (p. 57)
+ * A declaração de variáveis de instância com o modificador de acesso private é
+ * conhecida como ocultamento de dados ou ocultamento de informação. (p. 63)
  */
