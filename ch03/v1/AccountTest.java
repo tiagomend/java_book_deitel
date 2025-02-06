@@ -1,3 +1,5 @@
+package v1;
+
 import java.util.Scanner;
 
 // Classe driver (ou 'classe condutora') [...] (p. 59)
